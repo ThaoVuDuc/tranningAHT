@@ -29,4 +29,4 @@ git commit --amend                      # Re-do the commit message of the previo
 
 - or for instance Notepad++:
 `git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"`
-thay đổi :))))
+thay đổi file text :))))
