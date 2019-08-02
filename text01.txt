@@ -30,3 +30,7 @@ git commit --amend                      # Re-do the commit message of the previo
 - or for instance Notepad++:
 `git config --global core.editor "'C:/Program Files/Notepad++/notepad++.exe' -multiInst -notabbar -nosession -noPlugin"`
 thay đổi file text :))))
+-cách tạo 1 branch : git branch <tên branch>
+- cách push file ở local lên github : git push -u origin <tên branch>
+- merge branch : vào branch master trước sau đó : git merge <tên branch> sau đó thực hiện lệnh push tiếp (git push -u origin master)
+-cách pull từ branch của repository về local : git pull origin <tên branch>
